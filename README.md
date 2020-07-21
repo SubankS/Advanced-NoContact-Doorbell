@@ -18,4 +18,5 @@ You can check the video description of the product <a href="https://youtu.be/YW9
 
 ## Team Details
 Souradeep Ghosh - <a href="https://github.com/Sourolio10">Github</a>  
-Subhadeep Jana - <a href="https://github.com/SubankS">Github</a>
+Subhadeep Jana - <a href="https://github.com/SubankS">Github</a>  
+![1920x600](https://user-images.githubusercontent.com/53677987/88025353-c8ceb180-cb51-11ea-9ac2-f65dcfa3841c.png)
