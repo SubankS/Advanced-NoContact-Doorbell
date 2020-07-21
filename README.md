@@ -12,4 +12,4 @@ So the system not only works as a no-contact doorbell, but also specifies the ki
 Python 3, Machine Learning 
 
 # Video 
-You can check the video demo of the product https://youtu.be/YW91ppO_SC4 
+You can check the video demo of the product <https://youtu.be/YW91ppO_SC4>  
