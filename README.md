@@ -1,6 +1,8 @@
 # Advanced-NoContact-Doorbell
 An advanced contactless doorbell system which allows a person to ring a doorbell without direct contact and curbs the spread of COVID-19 virus. The doorbell also detects the type of newcomer waiting outside.
 
+![cover](https://user-images.githubusercontent.com/53677987/88023368-8a83c300-cb4e-11ea-820c-2d26f97621ed.png)
+
 # About
 COVID-19 has wrecked havoc in all spheres of life, in every part of the world. One of the worst affected country is India. COVID-19 spreads mainly by droplets produced as a result of coughing or sneezing of a COVID-19 infected person. The droplets can survive for days on surfaces and clothes. Therefore, touching any infected surface or cloth and then touching one’s mouth, nose or eyes can transmit the disease. As precautionary measures, contactless methods are being developed for our day to day activities to curb the growth of the virus. One such essential activity is ringing a doorbell. Be it the cleaner, a delivery personnel, a salesman or some relative - they have to press the doorbell in order to ring it, which leaves a chance of contracting the virus.
 
