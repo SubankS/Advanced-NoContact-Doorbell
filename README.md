@@ -15,3 +15,7 @@ Python 3, Machine Learning
 
 # Video 
 You can check the video description of the product <a href="https://youtu.be/YW91ppO_SC4">here</a>
+
+## Team Details
+Souradeep Ghosh - <a href="https://github.com/Sourolio10">Github</a>  
+Subhadeep Jana - <a href="https://github.com/SubankS">Github</a>
