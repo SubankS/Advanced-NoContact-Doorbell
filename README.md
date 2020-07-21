@@ -9,6 +9,5 @@ As a remedy to this problem, we have come up with the idea of an advanced no-con
 So the system not only works as a no-contact doorbell, but also specifies the kind of newcomer waiting outside. Hence, "advanced" no contact doorbell. The cost of setting up and regulating such a system maybe greater then a regular ordinary doorbell, but the idea to stay safe and keep others safe from contamination should be kept in mind. We must aim to try out contactless ways to complete our essential day-to-day works. That way, we keep ourselves, our family and others safe from the virus.
 
 # Technologies used
-Python 3
-Machine Learning 
+Python 3, Machine Learning 
 
